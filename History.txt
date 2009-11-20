@@ -1,0 +1,12 @@
+=== 1.0.0 / 2008-01-01
+
+* 1 major enhancement
+
+  * Birthday!
+
+=== 1.0.5 / 2009-11-19
+
+* 1 minor enhancement:
+
+  * Made public.
+
